@@ -1,5 +1,7 @@
 # Ether.fi Security Architecture Audit
 
+*If this research helped you, please consider giving it a ⭐ Star.*
+
 This repository contains the results of an architectural analysis of the Ether.fi protocol. The work focuses not on identifying trivial bugs, but rather on assessing the reliability of the system's liquidity management mechanisms and access control hierarchy.
 
 ## 🔍 Components Analyzed
@@ -25,3 +27,17 @@ The analysis was conducted via static source code analysis, with a focus on:
 * Examining the call hierarchy between protocol components.
 ---
 This report was prepared in the course of an audit examination.
+
+## 🚀 Stay Updated
+Found this research useful?
+* **Star ⭐** this repo to keep track of it.
+* **Follow me** on GitHub for more DeFi security research.
+* **Fork** it if you want to run your own experiments.
+
+### ☕ Support the Research
+If you appreciate the work and want to support further security research:
+
+<img src="456.PNG" alt="Donate QR" width="200"/>
+
+**Wallet Address (ETH/EVM):** 0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
+
